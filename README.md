@@ -53,7 +53,7 @@ For More Details refer my resume <a href = "">click here for resume</a>
 <br>
 <br>
 
-If anyone can see my project just <a href = "https://github.com/Anupriya7566?tab=repositories">Click here</a>
+If anyone can see my project just <a href = "https://github.com/DeveshM01?tab=repositories">Click here</a>
 
 <!--
 **DeveshM01/DeveshM01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
