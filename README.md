@@ -45,7 +45,7 @@ For More Details refer my resume <a href = "">click here for resume</a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupriya7566&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%"/>
 </a>
 <a href="https://github.com/DeveshM01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anupriya7566&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anupriys's GitHub Stats" width="56%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveshM01&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devesh's GitHub Stats" width="56%" />
 </a>
 
 
