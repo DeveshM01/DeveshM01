@@ -6,7 +6,7 @@
 My name is ***Devesh Mishra*** and I am a ***Data Science $ Analytics*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud*** and to achieve a level of ***Full-Stack Data Science***. I live in Noida, India. Anyone can find me on :
 
 
-&nbsp;<a href = "https://www.linkedin.com/in/devesh-mishra-81a5872a6/" ><img src = "https://github.com/Anupriya7566/Anupriya7566/blob/main/Linkedin.png" height="20"><img></a>
+&nbsp;<a href = "https://www.linkedin.com/in/devesh-mishra-81a5872a6/" ><img src = "https://github.com/DeveshM01/DeveshM01/blob/main/Linkedin.png" height="20"><img></a>
 
 Anyone can also contact me via 
 &nbsp;<img src = "https://github.com/DeveshM01/DeveshM01/blob/main/gmail.png" width = 20><img> : mishra.devesh131@gmail.com
