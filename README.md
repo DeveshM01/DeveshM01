@@ -38,7 +38,7 @@ Anyone can also contact me via
 | Natural Language Processing | Transformer, Transfer Learning models,Sentiment Analysis |
 | Visualization / Analysis| Powerbi, DAX, Tableau, Excel, Data Modeling |
 
-For More Details refer my resume <a href = "https://github.com/DeveshM01/DeveshM01/blob/main/Analyst%20New.docx">click here for resume</a>
+For More Details refer my resume <a href = "https://github.com/DeveshM01/DeveshM01/blob/main/Dev%20Resume%20PDF.pdf">click here for resume</a>
   
   ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/DeveshM01">
